@@ -8,8 +8,11 @@ Front-end:
 3. JavaScript
 
 Back-end:
-JavaScript
-Firebase NoSQL database
+1. JavaScript
+2. Firebase NoSQL database
 
 # Template used
 SB Admin 2 v4.0.7 (https://startbootstrap.com/template-overviews/sb-admin-2)
+
+# Screenshots
+
